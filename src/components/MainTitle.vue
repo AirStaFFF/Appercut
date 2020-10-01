@@ -19,4 +19,15 @@
     font-weight: bold;
     color: #ffffff;
   }
+  @media screen and (max-width: 1024px){
+    .main-title {
+      font-size: 68px;
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 768px){
+    .main-title {
+      font-size: 48px;
+    }
+  }
 </style>
